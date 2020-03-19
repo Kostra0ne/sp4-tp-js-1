@@ -22,7 +22,6 @@ exports.sayHelloWorld = null;
 exports.isNumberBig = null;
 exports.sum = null;
 exports.greetingUser = null;
-exports.displayUserInfos = null;
 exports.makeOpposite = null;
 exports.createACat = null;
 exports.getTheWinner = null;
